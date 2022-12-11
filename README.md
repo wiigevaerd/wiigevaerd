@@ -20,12 +20,12 @@ Here are some ideas to get you started:
   Valiria V3, closed-source multi-purpose Discord bot.
   
   📫 How to contact me:
+  
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/229025905014472705)
   
   💼 Work/Jobs:
 
-  ![LBV](https://www.lbv.org/)
-  [![LBV]([https://lanyard.cnrad.dev/api/229025905014472705](https://www.lbv.org/sites/all/themes/lbv/img/logo/lbv_1_Brasil_3.png))](https://www.lbv.org/)
+  [![LBV](https://www.lbv.org/sites/all/themes/lbv/img/logo/lbv_1_Brasil_3.png)](https://www.lbv.org/)
 
   📱 Smartphone Brands:
   
