@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   📫 How to contact me:
 
-  [![Discord]([https://lanyard.cnrad.dev/api/229025905014472705](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white))](https://discord.com/users/229025905014472705)
+  [![Discord]([https://lanyard.cnrad.dev/api/229025905014472705)](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white))](https://discord.com/users/229025905014472705)
   
   💼 Work/Jobs:
 
