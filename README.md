@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
   [![LBV](https://www.lbv.org/sites/all/themes/lbv/img/logo/lbv_1_Brasil_3.png)](https://www.lbv.org/)
 
-  📱 Smartphone Brands:
   
 
   💬 Social:
