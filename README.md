@@ -20,7 +20,7 @@ Here are some ideas to get you started:
    
   🔭 I am currently working on
 
-  Valiria V3, closed-source multi-purpose Discord bot.
+  Valiria V4 and Meraxes, closed-source multi-purpose Discord bot.
   
   📫 How to contact me:
   
