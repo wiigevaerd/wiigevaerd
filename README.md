@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Lydia 🐶
+I am Lyd 🐶
 
 <!--
 **wiigevaerd/wiigevaerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
